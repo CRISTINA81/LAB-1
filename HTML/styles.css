@@ -1,0 +1,46 @@
+body {
+    margin: 0 25 50px ;
+   
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+header{
+    background-color: black;
+    color:#34A2D4;
+    padding: 20px;
+    
+
+}
+.title{color: gray;
+}
+section{
+    background-color: lightgrey;
+    color: black;
+    margin: -20 0 0px;
+    padding: 10 5px;
+
+}
+section p{
+    padding: 0 0 0 20px;
+}
+header p{
+    padding: 0 0 0 20px;
+    color: rgba(128, 128, 128, 0.61)
+    
+}
+.locations {
+    background-color: white;
+    text-align: left;
+
+}
+.table{
+    text-indent: 30px;
+    text-align: left;
+}
+th 
+{
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+
